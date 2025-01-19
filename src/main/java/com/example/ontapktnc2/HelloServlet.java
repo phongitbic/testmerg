@@ -26,9 +26,6 @@ public class HelloServlet extends HttpServlet {
         System.out.println("yeu em");
 
         System.out.println("merge");
-
-
-        System.out.println("anh yeu em lam code ak");
     }
 
     public void destroy() {
