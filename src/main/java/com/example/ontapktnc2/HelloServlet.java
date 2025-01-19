@@ -23,7 +23,6 @@ public class HelloServlet extends HttpServlet {
         out.println("</body></html>");
 
         System.out.println("phong dep trai");
-        System.out.println("yeu em");
     }
 
     public void destroy() {
